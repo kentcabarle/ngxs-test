@@ -1,6 +1,13 @@
 # Ngxs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+	node -v = v8.11.3
+
+	npm -v = 6.3.0
+
+	nvm version = 1.1.7
+
+	Angular CLI: 6.2.1
+
 
 ## Development server
 
@@ -26,5 +33,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-# Download Redux Dev Tools from Chrome:
+## Download Redux Dev Tools from Chrome:
 You can find it here: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
